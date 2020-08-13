@@ -1,6 +1,4 @@
-package by.zavadskaya.controller.oneSimensionalArrays;
-
-import java.util.Arrays;
+package by.zavadskaya.controller.oneDimensionalArrays;
 
 import by.zavadskaya.model.oneDimensionalArrays.Array;
 import by.zavadskaya.model.oneDimensionalArrays.EighthTask;
